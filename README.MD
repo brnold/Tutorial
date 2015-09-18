@@ -24,4 +24,7 @@ Format: ![Alt Text](url)
 
 More markdonw syntaxt suff is located at https://guides.github.com/features/mastering-markdown/
 
-Somthing added
+Somthing has changed here
+
+
+I am going to add a line to my read me
