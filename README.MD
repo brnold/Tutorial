@@ -5,7 +5,7 @@
 
 There is a lot of interesting stuff you can do with me
 
-lke check lists
+like check lists
 
 - [ ] This is a unchecked box
 - [x] totally checked.
@@ -18,4 +18,8 @@ End of list
 		System.out.println("Hello World!");
 	}
 
-More syntaxt suff is located at https://guides.github.com/features/mastering-markdown/
+## You can put pictures in here too.
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+More markdonw syntaxt suff is located at https://guides.github.com/features/mastering-markdown/
