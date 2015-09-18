@@ -19,7 +19,7 @@ End of list
 	}
 
 ## You can put pictures in here too.
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/github_logo.html)
 Format: ![Alt Text](url)
 
 More markdonw syntaxt suff is located at https://guides.github.com/features/mastering-markdown/
